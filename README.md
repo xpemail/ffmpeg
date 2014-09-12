@@ -1,4 +1,2 @@
-ffmpeg
-======
-
-ffmpeg static lib for ios
+ffmpeg-speex-ios-static-librarys
+================================
